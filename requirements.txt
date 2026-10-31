@@ -1,0 +1,5 @@
+# ==============================================================================
+# security_engine — Standalone Package Requirements
+# ==============================================================================
+# Runs 100% on the Python Standard Library (hashlib, zipfile, shutil, pathlib,
+# http.server). Zero external third-party packages are required.
